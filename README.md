@@ -17,12 +17,6 @@ Files
 emotion_fmri_analysis-checkpoint.ipynb: Main code for data processing, feature extraction, and ML models.
 minor_project_report.pdf: Detailed project report.
 
-Usage
-
-Download dataset via DataLad.
-Run notebook cells sequentially.
-Adjust paths in Cell 2.
-
 Future Work
 
 Add more subjects.
